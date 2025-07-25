@@ -32,8 +32,19 @@ hobbies 🎮:
   - "Diver"
   - "Crafts"
 ```
-## Some Tools I've learned and used
-vscode python cLang cplusplus javascript react VueJS html  css3 mongodb mysql nodejs php Laravel flutter docker kubernetes  linux git bash figma
+## My Stack
+<img width="42" height="42" alt="react icon" src="https://github.com/user-attachments/assets/449f213b-7c72-4578-be32-ca5c2ae61aa1" />
+<img width="42" height="42" alt="figma icon" src="https://github.com/user-attachments/assets/85668811-4baa-47af-9423-dd993f83e894" />
+<img width="42" height="42" alt="github icon" src="https://github.com/user-attachments/assets/f734fb69-4379-4860-930d-c290a3c62904" />
+<img width="42" height="42" alt="git icon" src="https://github.com/user-attachments/assets/98629f94-7bf9-4c84-a0fb-0c0ae221fbf6" />
+<img width="42" height="42" alt="vscode icon" src="https://github.com/user-attachments/assets/983fba00-312f-45c6-b7e4-783b01e0f7e4" />
+<img width="42" height="42" alt="python icon" src="https://github.com/user-attachments/assets/4a1203a2-0a91-4872-bb84-576e0a3624d0" />
+<img width="42" height="42" alt="javascript icon" src="https://github.com/user-attachments/assets/75dcca68-1842-4b88-bbb8-44ee273dd93d" />
+<img width="42" height="42" alt="css icon" src="https://github.com/user-attachments/assets/d1ebdb6e-934f-49d0-a8eb-9de6202e26d0" />
+<img width="42" height="42" alt="html5 icon" src="https://github.com/user-attachments/assets/f3d07d81-4670-461f-ac78-8bb48a0dc596" />
+
+
+
 
 
 
