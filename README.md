@@ -1,9 +1,9 @@
 ## Hi there 👋
-<img width="42" height="42" alt="this is fine meme" src="h[ttps://github.com/user-attachments/assets/d5c333b2-61e8-4753-9c16-5838db159d37](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJxNHhyNnUweDA5dHV1bnZrcWw0MnQ2b3JmZ2VhMzM1aGZuY3UxZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QMHoU66sBXqqLqYvGO/giphy.gif)" />
+<img width="300" height="300" alt="this is fine meme" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5kMzhjeHEyMWkzNmMxejVtZnZkbTl6d2F5bWc4c2F1b3Z6enY0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif" />
 
 ## A Little Bit About Me and My Interests
 <img width="42" height="42" alt="linkedin icon" src="https://github.com/user-attachments/assets/d5c333b2-61e8-4753-9c16-5838db159d37" />
-<img width="42 height="42" alt="icon" src="https://github.com/user-attachments/assets/4d223432-f0fc-4ae5-9b87-f4c4823879d3" />
+<img width="42 height="42" alt="github icon" src="https://github.com/user-attachments/assets/4d223432-f0fc-4ae5-9b87-f4c4823879d3" />
 
 
 ```yaml
