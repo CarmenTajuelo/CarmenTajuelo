@@ -35,6 +35,7 @@ hobbies 🎮:
   - "Crafts"
 ```
 ## My Stack
+### Webdev
 <img width="42" height="42" alt="react icon" src="https://github.com/user-attachments/assets/449f213b-7c72-4578-be32-ca5c2ae61aa1" />
 <img width="42" height="42" alt="figma icon" src="https://github.com/user-attachments/assets/85668811-4baa-47af-9423-dd993f83e894" />
 <img width="42" height="42" alt="github icon" src="https://github.com/user-attachments/assets/f734fb69-4379-4860-930d-c290a3c62904" />
@@ -44,6 +45,13 @@ hobbies 🎮:
 <img width="42" height="42" alt="javascript icon" src="https://github.com/user-attachments/assets/75dcca68-1842-4b88-bbb8-44ee273dd93d" />
 <img width="42" height="42" alt="css icon" src="https://github.com/user-attachments/assets/d1ebdb6e-934f-49d0-a8eb-9de6202e26d0" />
 <img width="42" height="42" alt="html5 icon" src="https://github.com/user-attachments/assets/f3d07d81-4670-461f-ac78-8bb48a0dc596" />
+
+### Design Image & Video
+<img width="42" height="42" alt="photoshop icon" src="https://github.com/user-attachments/assets/49278cda-f97b-4b0e-90ec-96a506108bd4" />
+<img width="42" height="42" alt="lightroom icon" src="https://github.com/user-attachments/assets/45d1c1ab-5217-47d5-8b9d-9eed871c3e9f" />
+<img width="42" height="42" alt="indesign icon" src="https://github.com/user-attachments/assets/91210627-2a35-47ca-9dbb-f6da004a57c6" />
+<img width="42" height="42" alt="premiere icon" src="https://github.com/user-attachments/assets/30b7fa83-3d30-4bc3-ba1e-546bb38dcfcc" />
+
 
 
 
