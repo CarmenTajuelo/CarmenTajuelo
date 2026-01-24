@@ -20,11 +20,10 @@ With 12+ years of experience in technical project management and close collabora
 ![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat)
 
 ### Design Image & Video
-<img width="42" height="42" alt="photoshop icon" src="https://github.com/user-attachments/assets/49278cda-f97b-4b0e-90ec-96a506108bd4" />
-<img width="42" height="42" alt="lightroom icon" src="https://github.com/user-attachments/assets/45d1c1ab-5217-47d5-8b9d-9eed871c3e9f" />
-<img width="42" height="42" alt="indesign icon" src="https://github.com/user-attachments/assets/91210627-2a35-47ca-9dbb-f6da004a57c6" />
-<img width="42" height="42" alt="premiere icon" src="https://github.com/user-attachments/assets/30b7fa83-3d30-4bc3-ba1e-546bb38dcfcc" />
-
+![Photoshop](https://img.shields.io/badge/PS-Photoshop-blue)
+![Lightroom](https://img.shields.io/badge/LR-Lightroom-lightblue)
+![InDesign](https://img.shields.io/badge/ID-InDesign-mediumvioletred)
+![Premiere](https://img.shields.io/badge/PR-Premiere-mediumorchid)
 
 ## Featured Projects 💻 
 ### [GitHub Certification Guide](https://github.com/LadyKerr/github-certification-guide) 📚
