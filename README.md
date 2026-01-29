@@ -14,24 +14,29 @@ With 12+ years of experience in technical project management and close collabora
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Figma](https://img.shields.io/badge/Figma-fuchsia?style=flat&logo=figma&logoColor=white)
+
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat)
 ![Github](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=orange)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat)
 
-### Design Image & Video
+### Design, Image & Video
+![Figma](https://img.shields.io/badge/Figma-fuchsia?style=flat&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/PS-Photoshop-blue)
 ![Lightroom](https://img.shields.io/badge/LR-Lightroom-lightblue)
 ![InDesign](https://img.shields.io/badge/ID-InDesign-mediumvioletred)
 ![Premiere](https://img.shields.io/badge/PR-Premiere-mediumorchid)
 
-## Featured Projects 💻 
-### [GitHub Certification Guide](https://github.com/LadyKerr/github-certification-guide) 📚
+### Project Management
+![Jira](https://img.shields.io/badge/Jira-white?style=flat-square&logo=jira&logoColor=blue)
+![Trello](https://img.shields.io/badge/Trello-white?style=flat-square&logo=trello&logoColor=blue)
+![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white)
 
-Demonstrate your proficiency at GitHub by becoming certified. This guide will help you prepare for the exams and provide you with resources to help you succeed.
-
-![gh-certs (1)](https://github.com/user-attachments/assets/3f3f02a9-173e-43c3-9c06-341276047633)
-
+### Other
+![Discord](https://img.shields.io/badge/Discord-%235561f6?style=flat-square&logo=discord&logoColor=white)
 
 ## Get in Touch 📬
 - [Portfolio Web](https://www.linkedin.com/in/carmentajuelo/)
