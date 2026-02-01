@@ -57,8 +57,9 @@ A full-stack web application for managing agile projects efficiently. SprintFlow
 
 
 
-
-
+## 🎓 Education & Bootcamp
+![Factoria F5](https://img.shields.io/badge/Factoria-F5-orange?style=flat-square&logoColor=white) - Full Stack Web Development Bootcamp (2025) <br>
+![42 Madrid](https://img.shields.io/badge/Madrid-black?style=flat-square&logo=42&logoColor=white) - Piscine + Courses (2025)
 
 ## Get in Touch 📬
 - [Portfolio Web](https://carmentajuelo.github.io/carmen-tajuelo-portfolio/)
