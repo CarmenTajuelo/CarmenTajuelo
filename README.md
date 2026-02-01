@@ -11,6 +11,23 @@ With 12+ years of experience in technical project management and close collabora
 |:--------:|:---------------------:|:------------------:|:-------:|
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) <br> ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) <br> ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) <br> ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) <br> ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) <br> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) <br> ![Git](https://img.shields.io/badge/Git-white?style=flat&logo=git&logoColor=orange) <br> ![Github](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white) <br> ![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat) | ![Figma](https://img.shields.io/badge/Figma-fuchsia?style=flat&logo=figma&logoColor=white) <br> ![Photoshop](https://img.shields.io/badge/PS-Photoshop-blue) <br> ![Lightroom](https://img.shields.io/badge/LR-Lightroom-lightblue) <br> ![InDesign](https://img.shields.io/badge/ID-InDesign-mediumvioletred) <br> ![Premiere](https://img.shields.io/badge/PR-Premiere-mediumorchid) | ![Notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white) <br> ![Jira](https://img.shields.io/badge/Jira-white?style=flat-square&logo=jira&logoColor=blue) <br> ![Trello](https://img.shields.io/badge/Trello-white?style=flat-square&logo=trello&logoColor=blue) <br> ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white) <br> ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=flat-square) <br> ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) <br> ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white) | ![Discord](https://img.shields.io/badge/Discord-%235561f6?style=flat-square&logo=discord&logoColor=white) |
 
+## ✨ Featured Projects
+### Portfolio
+
+### SprintFlow
+Agile project management app built as a fullstack team project.
+- Frontend: React
+- Backend: Node.js
+- Role: Frontend development, UI structure, state management
+
+🔗 Repos:
+https://github.com/CarmenTajuelo/F5_011-SprintFlow-Server <br>
+https://github.com/CarmenTajuelo/F5_011-SprintFlow-Client
+
+## 📈 GitHub Stats
+![Carmen's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmentajuelo&show_icons=true)
+
+
 ## Get in Touch 📬
 - [Portfolio Web](https://carmentajuelo.github.io/carmen-tajuelo-portfolio/)
 - [LinkedIn](https://www.linkedin.com/in/carmentajuelo/) 
