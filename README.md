@@ -10,7 +10,7 @@ With 12+ years of experience in technical project management and close collabora
 ### 🌐 Carmen Tajuelo · Portfolio 1.0  
 A professional, responsive, and scalable portfolio website designed as a living project to showcase my work, skills, and technical approach to web development.  
 
-🔗 **Live demo:** [Portfolio Web](https://carmentajuelo.github.io/carmen-tajuelo-portfolio/)  
+🔗 **Live demo:** [Portfolio Web](https://carmentajuelo.github.io/carmen-tajuelo-portfolio-1.0/)  
 _Deployed with GitHub Pages_
 
 ### 🚀 Key Features
