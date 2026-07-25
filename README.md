@@ -1,5 +1,5 @@
 ## Hi there, I'm Carmen Tajuelo! 👋
-<img width="300" height="300" alt="this is fine meme" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm5kMzhjeHEyMWkzNmMxejVtZnZkbTl6d2F5bWc4c2F1b3Z6enY0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTur7XlVDUdqM/giphy.gif" />
+
 
 ## 🚀 A Little Bit About Me and My Interests
 Web developer with a background in Localization Engineering and Language Technologies.
